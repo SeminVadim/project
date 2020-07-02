@@ -1,3 +1,6 @@
+
+название ветки dev1
+
 <<<<<<< Updated upstream
 content
 =======
